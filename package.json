@@ -1,0 +1,11 @@
+{
+  "name": "todo-test-for-itprojects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pryasin/todo-test-for-itprojects.git",
+  "author": "pryasin <komarekk33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
