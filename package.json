@@ -6,7 +6,8 @@
   "author": "pryasin <komarekk33@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --config build/webpack.config.dev.js"
+    "start": "webpack-dev-server --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.prod.js"
   },
   "dependencies": {
     "vue": "^2.6.11",
